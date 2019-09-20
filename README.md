@@ -1,2 +1,2 @@
 # FEUP-FPRO
-Simple battleship game developed for curricular unit FPRO at FEUP.
+Simple battleship game developed in DrScheme LISP for curricular unit FPRO at FEUP.
